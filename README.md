@@ -35,6 +35,7 @@ Make sure to download "The Most Powerful Earthquakes - Interactive.html" file.
 2. You can also find the full source code on [this Google Colab.](https://colab.research.google.com/drive/1H3EcysnS0dWBB99ZJaNVQrBczZH7BuHo?usp=sharing)
 3. You don't need anything special to run the program.
 
+
 #### Check out my social stuff for more:
 
 
@@ -51,5 +52,8 @@ Make sure to download "The Most Powerful Earthquakes - Interactive.html" file.
             <td><a href="https://medium.com/@hibrantapia">
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
             </a></td>
+        </tr>
+    </tbody>
+</table>
 
 Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.
