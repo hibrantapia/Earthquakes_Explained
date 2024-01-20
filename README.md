@@ -1,17 +1,23 @@
 ## Earthquakes Explained
 
+<p align="center"> <img src = "/Graphs/1.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/2.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/3.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/4.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/5.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/6.png" width = 550> </p>
+
 <p align="center"> <img src = "/Graphs/100 Years of Earthquakes - Graph.png" width = 800> </p>
 
-<p align="center"> <img src = "/Graphs/1.png" width = 650> </p>
-<p align="center"> <img src = "/Graphs/2.png" width = 650> </p>
-<p align="center"> <img src = "/Graphs/3.png" width = 650> </p>
-<p align="center"> <img src = "/Graphs/4.png" width = 650> </p>
-<p align="center"> <img src = "/Graphs/5.png" width = 650> </p>
-<p align="center"> <img src = "/Graphs/6.png" width = 650> </p>
+<p align="center">
+<a href="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/The%20Most%20Powerful%20Earthquakes%20-%20Interactive.html" title="The Most Powerful Earthquakes - Interactive">
+    <img src="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/Graphs/Interactive.png?raw=true" alt="Interactive" width="1000" height="auto"/>
+</a>
+</p>
 
 <p align="center">
 <a href="https://youtu.be/dUq0pIF_jlA?si=pF92aiUqls01kmPK" title="100 Years of Earthquakes">
-    <img src="https://raw.githubusercontent.com/hibrantapia/Earthquakes_Explained/main/Graphs/YouTube.png" alt="Alt text for your video" width="500" height="auto"/>
+    <img src="https://raw.githubusercontent.com/hibrantapia/Earthquakes_Explained/main/Graphs/YouTube.png" alt="Video" width="500" height="auto"/>
 </a>
 </p>
 
