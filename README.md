@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://youtu.be/dUq0pIF_jlA?si=pF92aiUqls01kmPK" title="100 Years of Earthquakes">
-    <img src="https://raw.githubusercontent.com/hibrantapia/Earthquakes_Explained/main/Graphs/YouTube.png" alt="Alt text for your video" width="400" height="auto"/>
+    <img src="https://raw.githubusercontent.com/hibrantapia/Earthquakes_Explained/main/Graphs/YouTube.png" alt="Alt text for your video" width="500" height="auto"/>
 </a>
 </p>
 
