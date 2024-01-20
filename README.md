@@ -2,6 +2,8 @@
 
 <p align="center"> <img src = "/Graphs/100 Years of Earthquakes - Graph.png" width = 800> </p>
 
+### Cool Statistics
+
 <p align="center"> <img src = "/Graphs/1.png" width = 750> </p>
 <p align="center"> <img src = "/Graphs/2.png" width = 400> </p>
 <p align="center"> <img src = "/Graphs/3.png" width = 750> </p>
@@ -9,11 +11,15 @@
 <p align="center"> <img src = "/Graphs/5.png" width = 550> </p>
 <p align="center"> <img src = "/Graphs/6.png" width = 550> </p>
 
+### Interactive Visualization
+
 <p align="center">
 <a href="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/The%20Most%20Powerful%20Earthquakes%20-%20Interactive.html" title="The Most Powerful Earthquakes - Interactive">
     <img src="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/Graphs/Interactive.png?raw=true" alt="Interactive" width="1000" height="auto"/>
 </a>
 </p>
+
+### Animation
 
 <p align="center">
 <a href="https://youtu.be/dUq0pIF_jlA?si=pF92aiUqls01kmPK" title="100 Years of Earthquakes">
