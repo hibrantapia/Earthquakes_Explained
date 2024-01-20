@@ -1,8 +1,8 @@
-## Earthquakes Explained
+# Earthquakes Explained
 
 <p align="center"> <img src = "/Graphs/100 Years of Earthquakes - Graph.png" width = 800> </p>
 
-### Cool Statistics
+## Cool Statistics
 
 <p align="center"> <img src = "/Graphs/1.png" width = 750> </p>
 <p align="center"> <img src = "/Graphs/2.png" width = 400> </p>
@@ -11,7 +11,7 @@
 <p align="center"> <img src = "/Graphs/5.png" width = 550> </p>
 <p align="center"> <img src = "/Graphs/6.png" width = 550> </p>
 
-### Interactive Visualization
+## Interactive Visualization
 
 Make sure to download "The Most Powerful Earthquakes - Interactive.html" file.
 
@@ -21,7 +21,7 @@ Make sure to download "The Most Powerful Earthquakes - Interactive.html" file.
 </a>
 </p>
 
-### Animation
+## Animation
 
 <p align="center">
 <a href="https://youtu.be/dUq0pIF_jlA?si=pF92aiUqls01kmPK" title="100 Years of Earthquakes">
