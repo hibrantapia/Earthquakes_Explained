@@ -9,7 +9,7 @@
 <p align="center"> <img src = "/Graphs/5.png" width = 650> </p>
 <p align="center"> <img src = "/Graphs/6.png" width = 650> </p>
 
-[![Alt text for your video](https://raw.githubusercontent.com/hibrantapia/Earthquakes_Explained/main/Graphs/100%20Years%20of%20Earthquakes%20-%20Graph.png)](https://youtu.be/dUq0pIF_jlA?si=pF92aiUqls01kmPK)
+[![Alt text for your video](https://raw.githubusercontent.com/hibrantapia/Earthquakes_Explained/main/Graphs/YouTube.png)](https://youtu.be/dUq0pIF_jlA?si=pF92aiUqls01kmPK)
 
 <h2 align="left">Recipe</h2>
 
