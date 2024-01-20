@@ -13,6 +13,8 @@
 
 ### Interactive Visualization
 
+Make sure to download the "The Most Powerful Earthquakes - Interactive.html" file.
+
 <p align="center">
 <a href="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/The%20Most%20Powerful%20Earthquakes%20-%20Interactive.html" title="The Most Powerful Earthquakes - Interactive">
     <img src="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/Graphs/Interactive.png?raw=true" alt="Interactive" width="1000" height="auto"/>
