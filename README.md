@@ -47,7 +47,7 @@ Make sure to download "The Most Powerful Earthquakes - Interactive.html" file.
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
             <td><a href="https://twitter.com/HibranTapia">
-            <img width = "30" height="30" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" />
+            <img width = "35" height="30" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" />
             </a></td>
             <td><a href="https://medium.com/@hibrantapia">
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
