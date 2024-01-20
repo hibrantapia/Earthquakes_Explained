@@ -13,7 +13,7 @@
 
 ### Interactive Visualization
 
-Make sure to download the "The Most Powerful Earthquakes - Interactive.html" file.
+Make sure to download "The Most Powerful Earthquakes - Interactive.html" file.
 
 <p align="center">
 <a href="https://github.com/hibrantapia/Earthquakes_Explained/blob/main/The%20Most%20Powerful%20Earthquakes%20-%20Interactive.html" title="The Most Powerful Earthquakes - Interactive">
@@ -31,8 +31,9 @@ Make sure to download the "The Most Powerful Earthquakes - Interactive.html" fil
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 Jupyter Notebook file (.ipynb), containing the source code and full explanation of this beautiful graphs.
-2. You don't need anything special to run the program.
+1. In this simple GitHub Repository, I uploaded 1 Jupyter Notebook file (Earthquakes_Explained.ipynb), containing the source code and full explanation of this beautiful graphs and visualizations.
+2. You can also find the full source code on [this Google Colab.](https://colab.research.google.com/drive/1H3EcysnS0dWBB99ZJaNVQrBczZH7BuHo?usp=sharing)
+3. You don't need anything special to run the program.
 
 #### Check out my social stuff for more:
 
@@ -50,3 +51,5 @@ Make sure to download the "The Most Powerful Earthquakes - Interactive.html" fil
             <td><a href="https://medium.com/@hibrantapia">
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
             </a></td>
+
+Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.
